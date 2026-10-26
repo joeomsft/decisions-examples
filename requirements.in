@@ -1,0 +1,5 @@
+azure-identity
+openai
+pydantic
+typesafe-sdk
+python-dotenv
